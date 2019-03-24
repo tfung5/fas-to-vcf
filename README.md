@@ -16,4 +16,10 @@ bash fas-to-vcf.sh ref.fasta fastq ERR221622 ERR221661 ERR221662 ERR221663
 up to 7 VCF files
 
 ## Folder Setup
-![Pre](tree-pre.png) ![Post](tree-post.png)
+Tree (Before):
+
+![Pre](tree-pre.png)
+
+Tree (After):
+
+![Post](tree-post.png)
