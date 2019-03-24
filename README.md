@@ -17,7 +17,7 @@ bwa 0.7.12
 bash fas-to-vcf.sh ref.fasta fastq ERR221622 ERR221661 ERR221662 ERR221663
 
 ## Output
-up to 7 VCF files
+up to 7 VCF files (and associated pre-cursor files used to generate the VCF file)
 
 ## Folder Setup
 Tree (Before):
